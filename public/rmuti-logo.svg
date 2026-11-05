@@ -1,0 +1,15 @@
+<svg width="120" height="120" viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Outer circle -->
+  <circle cx="60" cy="60" r="58" fill="#f97316" stroke="#c2410c" stroke-width="2"/>
+  <!-- Inner circle -->
+  <circle cx="60" cy="60" r="48" fill="#ffffff"/>
+  <!-- RMUTI text -->
+  <text x="60" y="45" text-anchor="middle" fill="#c2410c" font-family="Arial, sans-serif" font-size="20" font-weight="bold">RMUTI</text>
+  <!-- University name -->
+  <text x="60" y="65" text-anchor="middle" fill="#9a3412" font-family="Arial, sans-serif" font-size="7" font-weight="600">Rajamangala Univ.</text>
+  <text x="60" y="75" text-anchor="middle" fill="#9a3412" font-family="Arial, sans-serif" font-size="7" font-weight="600">of Technology</text>
+  <text x="60" y="85" text-anchor="middle" fill="#9a3412" font-family="Arial, sans-serif" font-size="7" font-weight="600">Isan</text>
+  <!-- Decorative line -->
+  <line x1="25" y1="55" x2="95" y2="55" stroke="#f97316" stroke-width="1.5"/>
+  <line x1="25" y1="90" x2="95" y2="90" stroke="#f97316" stroke-width="1"/>
+</svg>
